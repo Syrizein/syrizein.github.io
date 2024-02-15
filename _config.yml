@@ -19,11 +19,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   name             : "Yunjie Xu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : Chemistry master's student
   pronouns         : # example: "she/her"
   location         : "Luzhou, China"
   orcid            : "https://orcid.org/0000-0002-3062-0476"
-  employer         : #École Polytechnique Fédérale de Lausanne#
+  employer         : École Polytechnique Fédérale de Lausanne
   email            :  
   uri              :
 
