@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Quick bio
-======
+## Quick bio
+
 Under construction.
 
-Education
-======
+### On preferred name
+
+I will, in some cases, include my preferred name *Adrian*.  
+
+## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
 * Ph.D in Universität Zürich, 2026 -
   
@@ -27,18 +30,18 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Languages
-======
-I'm currently capable of performing scientific communcation in:
+## Languages
 
+I'm currently capable of performing scientific communcation in:  
 Chinese[^1] (mother tongue) English (fluent)
 
-I'm also actively learning:
-
+I'm also actively learning:  
 French (beginner), German (beginner)
 
-======
+---
+
 Updated on 18 Dec 2025
 
-======
-[^1] Standard/Southwestern Mandarin (普通话/西南官话).
+---
+
+[^1]: Standard/Southwestern Mandarin (普通话/西南官话).
