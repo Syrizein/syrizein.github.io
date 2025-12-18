@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+.md-typeset .footnote {
+  font-size: 12px;
+}
+
 ## Quick bio
 
 Under construction.
@@ -33,10 +37,14 @@ I will, in some cases, include my preferred name *Adrian*.
 ## Languages
 
 I'm currently capable of performing scientific communcation in:  
-Chinese[^1] (mother tongue) English (fluent)
 
-I'm also actively learning:  
-French (beginner), German (beginner)
+- Chinese[^1] (mother tongue)
+- English (fluent)
+
+I'm also actively learning:
+
+- French (beginner)
+- German (beginner)
 
 ---
 
