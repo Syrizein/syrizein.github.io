@@ -9,17 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-.md-typeset .footnote {
-  font-size: 12px;
-}
-
 ## Quick bio
 
 Under construction.
 
 ### On preferred name
 
-I will, in some cases, include my preferred name *Adrian*.  
+I will, in some cases, include my preferred name *Adrian*.
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
