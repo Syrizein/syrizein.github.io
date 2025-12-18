@@ -7,9 +7,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yunjie Xu's Homepage"
+title                    : "Yunjie Xu"
 title_separator          : "-"
-name                     : &name "Yunjie (Adrian) Xu"
+name                     : &name "Yunjie Xu"
 description              : &description "personal description"
 url                      : https://syrizein.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -17,7 +17,7 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
-  name             : "Yunjie Xu"
+  name             : "Yunjie (Adrian) Xu"
   avatar           : "profile.png"
   bio              : incoming Ph.D. candidate in chemistry
   pronouns         : # example: "she/her"

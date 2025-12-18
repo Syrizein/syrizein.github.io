@@ -11,7 +11,7 @@ redirect_from:
 
 Quick bio
 ======
-[in construction]
+Under construction.
 
 Education
 ======
@@ -29,5 +29,16 @@ Education
 
 Languages
 ======
-Chinese (Standard and Southwestern Mandarin; mother tongue), English (fluent)
+I'm currently capable of performing scientific communcation in:
+
+Chinese[^1] (mother tongue) English (fluent)
+
+I'm also actively learning:
+
 French (beginner), German (beginner)
+
+======
+Updated on 18 Dec 2025
+
+======
+[^1] Standard/Southwestern Mandarin (普通话/西南官话).
