@@ -15,10 +15,10 @@ redirect_from:
 
 I was born in Sichuan, China in 2001. -->
 
->**On my names** 
->Yunjie is my given name with Xu being my family name. I'll usually use Western name convention for this site.  
->To pronunce my name in IPA: yun/yn/ jie/tɕjɛ/  
->Adrian is my "preferred name" but it's actually less preferred as for now 😂.
+Yunjie is my given name with Xu being my family name, following Western name convention.  
+To pronunce my name in IPA: yun/yn/ jie/tɕjɛ/.  
+Adrian is my "preferred name" but it's actually less preferred as for now 😂.
+{: .notice}
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
