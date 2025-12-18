@@ -18,13 +18,13 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   name             : "Yunjie (Adrian) Xu"
-  avatar           : "profile.png"
+  avatar           : "IMG_2171.JPG"
   bio              : incoming Ph.D. candidate in chemistry
   pronouns         : # example: "she/her"
   location         : "Zürich, CH"
   orcid            : "https://orcid.org/0000-0002-3062-0476"
   employer         : Universität Zürich (UZH)
-  email            : yunjie[Punkt]xu[At]uzh[Punkt]ch
+  email            : yunjie[punctus]xu[at]uzh[punctus]ch
   uri              :
 
   # Manuscript repositories
