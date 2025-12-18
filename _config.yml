@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yunjie Xu's Homepage"
 title_separator          : "-"
-name                     : &name "Yunjie Xu"
+name                     : &name "Yunjie (Adrian) Xu"
 description              : &description "personal description"
 url                      : https://syrizein.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -19,12 +19,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   name             : "Yunjie Xu"
   avatar           : "profile.png"
-  bio              : Chemistry master's student
+  bio              : incoming Ph.D. candidate in chemistry
   pronouns         : # example: "she/her"
-  location         : "Sichuan, CN/ Vaud, CH"
+  location         : "Zürich, CH"
   orcid            : "https://orcid.org/0000-0002-3062-0476"
-  employer         : EPFL
-  email            :  
+  employer         : Universität Zürich (UZH)
+  email            : yunjie[Punkt]xu[At]uzh[Punkt]ch
   uri              :
 
   # Manuscript repositories
@@ -47,16 +47,16 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  kaggle           : # "kaggleusername"
-  mastodon         : #"mastodonhandle"
-  medium           : # "add medium profile url here"
+  linkedin         : # www.linkedin.com/in/yunjie-xu-22961a270
+  kaggle           : 
+  mastodon         : 
+  medium           : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   wikipedia        :
