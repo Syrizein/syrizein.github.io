@@ -11,17 +11,21 @@ redirect_from:
 
 ## Quick bio
 
-Under construction.
+<!-- I'm a theoretical/computational chemist.
 
->**Notes on my name**
->I'll usually use Western name convention in this site.  
->*Yunjie* is my given name with *Xu* being my family name.  
+I was born in Sichuan, China in 2001. -->
 
->To pronunce my name in IPA: /yn<sup>51</sup> t͡ɕjɛ<sup>35</sup>/
+>**On my names** 
+>Yunjie is my given name with Xu being my family name. I'll usually use Western name convention for this site.
+>To pronunce my name in IPA: yun/yn/ jie/tɕjɛ/
+>Adrian is my "preferred name" but it's actually less preferred as for now :joy:.
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
+<!-- - Master's thesis conducted in Eidgenössische Technische Hochschule Zürich (ETHz) as exchange student,   
+supervised by [Prof. Jeremy Richardson](https://www.richardson.ethz.ch/) and [Prof. Philippe Schwaller](https://schwallergroup.github.io/). -->
 * Ph.D in Universität Zürich (UZH), 2026 -
+<!-- - Supervisor: [Prof. Sandra Luber](https://lubergroup.ch/) -->
   
 <!-- Skills
 ======
@@ -36,17 +40,13 @@ Under construction.
 
 I'm currently capable of performing scientific communcation in:  
 
-- Chinese[^1] (mother tongue)
+- Chinese, Standard and Southwestern Mandarin (mother tongue)
 - English (fluent)
 
 I'm also actively learning:
 
 - French (beginner)
 - German (beginner)
-
----
-
-[^1]: Standard/Southwestern Mandarin (普通话/西南官话).
 
 ---
 
