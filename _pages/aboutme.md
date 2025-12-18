@@ -13,13 +13,15 @@ redirect_from:
 
 Under construction.
 
-### On preferred name
+>**Notes on my name**
+>I'll usually use Western name convention in this site.  
+>*Yunjie* is my given name with *Xu* being my family name.  
 
-I will, in some cases, include my preferred name *Adrian*.
+>To pronunce my name in IPA: /yn<sup>51</sup> t͡ɕjɛ<sup>35</sup>/
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
-* Ph.D in Universität Zürich, 2026 -
+* Ph.D in Universität Zürich (UZH), 2026 -
   
 <!-- Skills
 ======
@@ -44,8 +46,8 @@ I'm also actively learning:
 
 ---
 
-Updated on 18 Dec 2025
+[^1]: Standard/Southwestern Mandarin (普通话/西南官话).
 
 ---
 
-[^1]: Standard/Southwestern Mandarin (普通话/西南官话).
+Updated on 18 Dec 2025
