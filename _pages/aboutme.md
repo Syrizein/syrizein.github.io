@@ -15,15 +15,12 @@ redirect_from:
 
 I was born in Sichuan, China in 2001. -->
 
-Yunjie is my given name with Xu being my family name, following Western name convention.  
-To pronunce my name in IPA: yun/yn/ jie/tɕjɛ/.  
+Following Western name convention, Yunjie is my given name with Xu being my family name.  
 Adrian is my "preferred name" but it's actually less preferred as for now 😂.
 {: .notice}
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
-<!-- - Master's thesis conducted in Eidgenössische Technische Hochschule Zürich (ETHz) as exchange student,   
-supervised by [Prof. Jeremy Richardson](https://www.richardson.ethz.ch/) and [Prof. Philippe Schwaller](https://schwallergroup.github.io/). -->
 * Ph.D in Universität Zürich (UZH), 2026 -
 <!-- - Supervisor: [Prof. Sandra Luber](https://lubergroup.ch/) -->
   
@@ -39,7 +36,7 @@ supervised by [Prof. Jeremy Richardson](https://www.richardson.ethz.ch/) and [Pr
 ## Languages
 
 I'm currently capable of performing scientific communcation in:  
-- Chinese, Standard and Southwestern Mandarin (mother tongue)
+- Chinese (mother tongue)
 - English (fluent)
 
 I'm also actively learning:  
