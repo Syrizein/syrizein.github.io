@@ -15,9 +15,8 @@ redirect_from:
 
 I was born in Sichuan, China in 2001. -->
 
-Following Western name convention, Yunjie is my given name with Xu being my family name.  
-Adrian is my "preferred name" but it's actually less preferred as for now 😂.
-{: .notice}
+Following Western name convention, Yunjie is my given name with Xu being my family name.   
+I also invented a "preferred name" *Adrian* but it's actually less preferred as for now. I'd strongly encourage people to address my **birth name** instead.
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
