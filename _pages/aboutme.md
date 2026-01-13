@@ -15,13 +15,13 @@ redirect_from:
 
 I was born in Sichuan, China in 2001. -->
 
-Following Western name convention, Yunjie is my given name with Xu being my family name.   
-I also invented a "preferred name" *Adrian* but it's actually less preferred as for now. I'd strongly encourage people to address my **birth name** instead.
+Following Western name convention, Yunjie is my given name with Xu being my family name.  
+
+I previously invented a "preferred name" *Adrian* but it's less preferred as for now. I'd strongly encourage everyone to address me by my **birth name** instead. 
 
 ## Education
 * M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
 * Ph.D in Universität Zürich (UZH), 2026 -
-<!-- - Supervisor: [Prof. Sandra Luber](https://lubergroup.ch/) -->
   
 <!-- Skills
 ======
@@ -38,10 +38,10 @@ I'm currently capable of performing scientific communcation in:
 - Chinese (mother tongue)
 - English (fluent)
 
-I'm also actively learning:  
+and actively learning:  
 - French (beginner)
 - German (beginner)
 
 ---
 
-Updated on 18 Dec 2025
+Updated on 13 Jan 2026
