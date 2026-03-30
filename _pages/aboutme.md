@@ -11,17 +11,9 @@ redirect_from:
 
 ## Quick bio
 
-<!-- I'm a theoretical/computational chemist.
+I was born in Sichuan, China.
 
-I was born in Sichuan, China in 2001. -->
-
-Following Western name convention, Yunjie is my given name with Xu being my family name.  
-
-I previously invented a "preferred name" *Adrian* but it's less preferred as for now. I'd strongly encourage everyone to address me by my **birth name** instead. 
-
-## Education
-* M.S. in École Polytechnique Fédérale de Lausanne (EPFL), 2023 - 2025
-* Ph.D in Universität Zürich (UZH), 2026 -
+I graduate from EPFL at 2025, with my master's thesis performed in exchange at ETHz. Since January 2026, I'm working as a Ph.D. student at UZH.
   
 <!-- Skills
 ======
@@ -34,14 +26,10 @@ I previously invented a "preferred name" *Adrian* but it's less preferred as for
 
 ## Languages
 
-I'm currently capable of performing scientific communcation in:  
-- Chinese (mother tongue)
-- English (fluent)
+I'm currently capable of performing scientific communcation in Chinese and English, and actively learning French and German.
 
-and actively learning:  
-- French (beginner)
-- German (beginner)
+Ich lerne gerade Deutsch! Lass uns plaudern auf diese Sprachen.
 
 ---
 
-Updated on 13 Jan 2026
+Updated on 30 Mar 2026
